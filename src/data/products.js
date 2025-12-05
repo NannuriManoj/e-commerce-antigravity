@@ -24,7 +24,7 @@ export const products = [
         id: 4,
         title: "Mechanical Keyboard",
         price: 159.99,
-        image: "https://images.unsplash.com/photo-1587829741301-dc798b91a95e?auto=format&fit=crop&w=800&q=80",
+        image: "https://images.unsplash.com/photo-1602025882379-e01cf08baa51?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         category: "Electronics"
     },
     {
@@ -38,7 +38,7 @@ export const products = [
         id: 6,
         title: "Smart Lamp",
         price: 79.99,
-        image: "https://images.unsplash.com/photo-1507473888900-52e1adad5420?auto=format&fit=crop&w=800&q=80",
+        image: "https://plus.unsplash.com/premium_photo-1672166939591-b2547bd18fca?q=80&w=2127&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         category: "Home"
     },
     {
