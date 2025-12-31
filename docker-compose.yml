@@ -1,0 +1,11 @@
+services:
+  app:
+    build: .
+    container_name: ecommerce-app
+    environment:
+      - PORT=3000
+    ports:
+      # Host Port:Container Port
+      # Requirement: Host port must not be the same as container port
+      - "8080:3000"
+    restart: unless-stopped
