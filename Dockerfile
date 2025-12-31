@@ -39,7 +39,7 @@ RUN chown -R appuser:appgroup /app
 # Switch to non-root user
 USER appuser
 
-# Expose the application port (documentation only, actual port is dynamic)
+# Expose the application port.
 EXPOSE 3000
 
 # Requirement: Read listening port from environment variable
